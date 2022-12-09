@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PayrollController
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ c\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PayrollController()
+comment2.params=view\ model
+comment2.target=PayrollController(PayrollView,\ PayrollModel)
+numComments=3

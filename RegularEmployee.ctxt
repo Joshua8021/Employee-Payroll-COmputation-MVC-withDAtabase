@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=RegularEmployee
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RegularEmployee\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RegularEmployee()
+comment10.params=
+comment10.target=int\ getSalary()
+comment2.params=id\ days\ overtimeHour\ overtimeRate\ holiday\ late
+comment2.target=RegularEmployee(int,\ int,\ int,\ int,\ int,\ float)
+comment3.params=
+comment3.target=void\ deduction()
+comment4.params=
+comment4.target=void\ salary()
+comment5.params=
+comment5.target=void\ setLate()
+comment6.params=
+comment6.target=float\ late()
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=float\ getIncomeTax()
+comment9.params=
+comment9.target=float\ getDeduction()
+numComments=11
